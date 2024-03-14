@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387"/>
+ <iframe src="https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK">via GIPHY</a></p>
 </div>
 
-https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387" 
 
 <!---
 BRVZBABB/BRVZBABB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
